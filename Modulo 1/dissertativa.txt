@@ -1,0 +1,11 @@
+No truque da tabuada do 9, o resultado da multiplicação de 9 por qualquer número n é obtido com a seguinte lógica:
+
+    Primeiro, subtraímos 1 do número n para obter o primeiro dígito do resultado. Chamaremos esse dígito de digito1.
+        Exemplo: Se n = 5, então digito1 = 5 - 1 = 4.
+
+    Em seguida, subtraímos o valor de n de 10 para obter o segundo dígito do resultado. Chamaremos esse dígito de digito2.
+        Exemplo: Se n = 5, então digito2 = 10 - 5 = 5.
+
+    Finalmente, o resultado da multiplicação de 9 por n é dado por:
+        9 x n = digito1 x 10 + digito2
+        No exemplo, isso seria: 9 x 5 = 4 x 10 + 5 = 40 + 5 = 45.

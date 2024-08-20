@@ -1,0 +1,26 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Início\n",
+    "  Ler n  // Entrada do número n\n",
+    "  digito1 <- n - 1  // Processamento: cálculo do primeiro dígito\n",
+    "  digito2 <- 10 - n  // Processamento: cálculo do segundo dígito\n",
+    "  resultado <- digito1 * 10 + digito2  // Processamento: cálculo do resultado final\n",
+    "  Escrever resultado  // Saída: impressão do resultado final\n",
+    "Fim\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
